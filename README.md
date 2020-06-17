@@ -41,3 +41,9 @@ https://qiita.com/wataryooou/items/8dce6b6d5f54ab2cef04
 
 はじめての Pull Request
 https://qiita.com/aokiplayer/items/4efb015187ed9ccc1281
+
+
+## 役に立たないけど質問受け付けます
+
+twitter
+@tosa_now
