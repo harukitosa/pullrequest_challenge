@@ -46,4 +46,4 @@ https://qiita.com/aokiplayer/items/4efb015187ed9ccc1281
 ## 役に立たないけど質問受け付けます
 
 twitter
-@tosa_now
+[@tosa_now](https://twitter.com/tosa_now)
