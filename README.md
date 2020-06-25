@@ -16,7 +16,7 @@ pullrequest のやり方がわからない、気軽に練習してみたい！�
 <img src="pullrequest_2.png"/>
 
 
-その後、terminnalにて
+その後、terminalにて
 
 ```zsh
 git clone [コピーしたurl]
